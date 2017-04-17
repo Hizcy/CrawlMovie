@@ -1,0 +1,12 @@
+E:\MyProject\CrawlMovie\CrawlMovie\obj\Debug\CrawlMovie.Form1.resources
+E:\MyProject\CrawlMovie\CrawlMovie\obj\Debug\CrawlMovie.Properties.Resources.resources
+E:\MyProject\CrawlMovie\CrawlMovie\obj\Debug\CrawlMovie.csproj.GenerateResource.Cache
+E:\MyProject\CrawlMovie\CrawlMovie\bin\Debug\HtmlAgilityPack.dll
+E:\MyProject\CrawlMovie\CrawlMovie\bin\Debug\HtmlAgilityPack.pdb
+E:\MyProject\CrawlMovie\CrawlMovie\bin\Debug\HtmlAgilityPack.xml
+E:\MyProject\CrawlMovie\CrawlMovie\bin\Debug\观影工具.exe.config
+E:\MyProject\CrawlMovie\CrawlMovie\bin\Debug\观影工具.exe
+E:\MyProject\CrawlMovie\CrawlMovie\bin\Debug\观影工具.pdb
+E:\MyProject\CrawlMovie\CrawlMovie\obj\Debug\观影工具.exe
+E:\MyProject\CrawlMovie\CrawlMovie\obj\Debug\观影工具.pdb
+E:\MyProject\CrawlMovie\CrawlMovie\obj\Debug\CrawlMovie.csprojResolveAssemblyReference.cache
